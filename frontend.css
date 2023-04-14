@@ -1,0 +1,24 @@
+.heading {
+    border-width: 100%;
+    border-color: antiquewhite;
+    bor
+}
+img {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    float: left;
+    margin-right: 5px;
+}
+
+.username {
+    font-weight: bold;
+    color: blue;
+    font-size: x-small;
+}
+
+.text {
+    font-style: italic;
+    font-family: sans-serif;
+    font-size: xx-small;
+}
